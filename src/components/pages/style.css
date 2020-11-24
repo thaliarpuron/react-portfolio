@@ -1,0 +1,100 @@
+.home-image{
+    max-width: 99%;
+    max-height: 99%;
+    background-color: black;
+}
+
+.background {
+    background-color: black;
+}
+
+.name {
+    margin-top: 50px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+.thaliajpg{
+    border-radius: 50%;
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.nav-link {
+    color: grey;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.about-portfolio-contact {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px; 
+}
+
+.btn-primary {
+    margin-top: 20px;
+}
+
+.portfolio-images{
+    background-size: cover;
+    background-position: center bottom;
+    height: 180px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.portfolio-links{
+    text-align: center;
+    color: black
+}
+  
+.container-about{
+   height: 900px;
+  }
+
+.text-about {
+      font-size: larger;
+  }
+  
+.footer {
+    min-height: 100px;
+    position: relative;
+  }
+
+.footer h6 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+  }
+
+  .card-text{
+    list-style-type: none;
+    font-size:larger;
+  }
+
+  .btn-contact{
+      margin: 10px;
+  }
+
+ 
+  
+
+

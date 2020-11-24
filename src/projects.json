@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bW9uZXl8ZW58MHx8MHw%3D&auto=format&fit=crop&w=800&q=60",
+        "alt": "coins",
+        "title": "Budget Tracker",
+        "github": "https://github.com/thaliarpuron/Budget-Tracker",
+        "deploy": "https://sheltered-garden-92920.herokuapp.com/",
+        "screenshot": "https://drive.google.com/file/d/17jQXchfAS6f1yKZZhUtmB1IGNhYrTx15/view?usp=sharing"
+    },
+    {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1518459031867-a89b944bffe4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHdvcmtvdXR8ZW58MHx8MHw%3D&auto=format&fit=crop&w=800&q=60",
+        "alt": "workout",
+        "title": "Workout Tracker",
+        "github": "https://github.com/thaliarpuron/Workout-Tracker",
+        "deploy": "https://floating-lake-46712.herokuapp.com",
+        "screenshot": "https://drive.google.com/file/d/1OC3GzhJ4NX_cX99gA9kVbZYyhCJ_xU_A/view?usp=sharing"
+    },
+    {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1587620931276-d97f425f62b9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzV8fGhhY2tlcnxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "alt": "hackerspace",
+        "title": "HackerSpace",
+        "github": "https://github.com/thaliarpuron/HackerSpace",
+        "deploy": "https://fast-bayou-85635.herokuapp.com/",
+        "screenshot": "https://drive.google.com/file/d/1HdwX7cRdfxApNS8VHueqKfIiClwP5Qbu/view?usp=sharing"
+    },
+    {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fGJ1cmdlcnxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "alt": "hackerspace",
+        "title": "Eat-da-Burger",
+        "github": "https://github.com/thaliarpuron/Node-Express-Handlebars",
+        "deploy": "https://blooming-tundra-16789.herokuapp.com",
+        "screenshot": "https://drive.google.com/file/d/1_EdL5XH2cseUsL9F1vp6XoPLMVHcHswz/view?usp=sharing"
+    },
+    {
+        "id": 5,
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8am9ifGVufDB8fDB8&auto=format&fit=crop&w=800&q=60",
+        "alt": "JOBer",
+        "title": "JOBer",
+        "github": "https://github.com/thaliarpuron/JOBer",
+        "deploy": "https://thaliarpuron.github.io/JOBer/",
+        "screenshot": "https://drive.google.com/file/d/1SzlYL1nY4Eg-S2R7uGb8j-hRz9GNZ6Ss/view?usp=sharing"
+    },
+    {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1518607692857-bff9babd9d40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FsZW5kYXIlMjBwbGFubmVyfGVufDB8fDB8&auto=format&fit=crop&w=800&q=60",
+        "alt": "Day-planner",
+        "title": "Day Planner",
+        "github": "https://github.com/thaliarpuron/Day-Planner",
+        "deploy": "https://thaliarpuron.github.io/Day-Planner/",
+        "screenshot": "https://drive.google.com/file/d/1s5jrIce-lzOAHz0L_2jVQfQNYan_8KLH/view?usp=sharing"
+    }
+]
+
